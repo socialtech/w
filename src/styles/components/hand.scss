@@ -1,0 +1,59 @@
+#hand {
+    max-width: 200px;
+
+    span {
+
+        display: block;
+        text-align: center;
+
+
+        svg {
+            margin: 2em auto;
+            width: 100%;
+
+            .st0 {
+                fill: none;
+                stroke: #000000;
+                stroke-width: 1.75;
+                stroke-miterlimit: 10;
+            }
+        }
+    }
+}
+
+
+// #hand {
+//     display: inline-flex;
+//     z-index: 111;
+//     position: relative;
+//     width: 70vw;
+//     margin: 0 auto;
+//     align-items: center;
+  
+//     &:hover {
+//       cursor: pointer;
+//     }
+  
+//     span {
+//       z-index: 111;
+//       display: block;
+//       text-align: center;
+//       position: relative;
+//       width: 100%;
+  
+//       svg {
+//         display: block;
+//         margin: 0em auto !important;
+//         width: auto;
+//         max-width: 300px;
+//         z-index: 1111;
+  
+//         .st0 {
+//           fill: #fff;
+//           stroke: #fff;
+//           stroke-width: 1 !important;
+//           stroke-miterlimit: 10;
+//         }
+//       }
+//     }
+//   }

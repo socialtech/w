@@ -1,0 +1,52 @@
+// App
+
+
+
+
+// FavIcon
+
+path.favIcon {
+    fill: black;
+}
+@media (prefers-color-scheme: dark) {
+    path.favIcon {
+        fill: white;
+    }
+}
+
+// Reset This
+:root {
+    font-size: 16px;
+    line-height: 1.375em;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue",
+        sans-serif;
+    font-weight: 400;
+}
+body,
+html {
+    font-size: 16px;
+    position: relative; // Safari Hack (blerg!)
+}
+
+* {
+    box-sizing: border-box;
+}
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+// Prefer This
+html {
+    font-size: 16px;
+}
+ol,
+ul {
+    list-style: none;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+

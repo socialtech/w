@@ -1,0 +1,18 @@
+<svg id="theHand" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 174.1 174.1" style="enable-background:new 0 0 174.1 174.1;" xml:space="preserve">
+<style type="text/css">
+</style>
+<circle class="circlePalm" cx="86.7" cy="126.1" r="2.8"/>
+<g id="FingersPalm">
+	<g>
+		<path class="st0" d="M66.6,109.2V33.5c0,0,0-6.7,6.7-6.7c6.7,0,6.7,6.7,6.7,6.7v67.4"/>
+		<path class="st0" d="M80,80.4V26.8c0,0,0-6.7,6.7-6.7c6.7,0,6.7,6.7,6.7,6.7v53.5"/>
+		<path class="st0" d="M93.4,100.9V40.2c0,0,0-6.7,6.7-6.7s6.7,6.7,6.7,6.7v53.5"/>
+		<path class="st0" d="M106.8,109.2V86.3c0,0,0-7.5,5.6-11.3c3.3-2.2,7.7,0.3,7.7,4.3l0,7v34.2c0,0,0,33.5-33.5,33.5
+			s-33.5-33.5-33.5-33.5V60.3c0,0,0-6.7,6.7-6.7s6.7,6.7,6.7,6.7v48.9"/>
+	</g>
+</g>
+	
+	<!-- <circle cx="97.6" cy="126.1" r="2.8"/> -->
+	<!-- <circle cx="75.2" cy="126.1" r="2.8"/> -->
+</svg>
